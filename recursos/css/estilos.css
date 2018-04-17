@@ -1,0 +1,36 @@
+ @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+ .fondo1 {
+background-image:url("../../images/0.png");
+background-repeat: no-repeat; 
+}
+
+
+
+ .fondo-radial {
+background: linear-gradient(skyblue, white); 
+}
+ .fondo-radial2 {
+/*background-image:url("../../images/fondo7.jpg");
+background-repeat: no-repeat;
+
+  background-position: center center;
+
+
+  background-attachment: fixed;
+
+  background-size: cover;
+background-color: #464646;*/
+background: linear-gradient(skyblue, white); 
+
+}
+ .lados {
+background-color:black;
+}
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: url("../../images/fondo6.jpg");
+  }
+}
+
+
